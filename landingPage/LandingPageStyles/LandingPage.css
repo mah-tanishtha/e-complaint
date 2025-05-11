@@ -1,0 +1,32 @@
+*{
+    padding : 0px;
+    margin : 0px;
+    box-sizing: border-box;
+}
+.overlay_2 {
+    /* inset: 0;
+    font-weight: 900;
+    top:200px; */
+    left: 0;
+    bottom: 40px;
+    width: 100%;
+    padding: 1rem;
+  }
+  .overlay {
+    position: absolute; 
+    background: rgba(57, 57, 57, 0.5);
+  
+    /* center overlay text */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  /* .box1 {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    vertical-align: center;
+    opacity: .5;
+    border-radius: 20px;
+  } */
